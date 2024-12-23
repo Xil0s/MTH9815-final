@@ -1,0 +1,6 @@
+src/main
+src/data/data_generator
+src/data/inquiries.txt
+src/data/marketdata.txt
+src/data/prices.txt
+src/data/trades.txt
